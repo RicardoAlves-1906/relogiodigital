@@ -1,6 +1,4 @@
-function atualizarRelogio() 
-
-{
+function atualizarRelogio() {
     const agora = new Date();
     let horas = agora.getHours();
     let minutos = agora.getMinutes();
@@ -14,4 +12,6 @@ function atualizarRelogio()
     document.getElementById('relogio').textContent = horaAtual;
     }
 
-    setInterval(atualizarRelogio, 1000);
+setInterval(atualizarRelogio, 1000);
+
+
