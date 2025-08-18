@@ -1,3 +1,11 @@
+# RELOGIO DIGITAL TESTE
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&amp;message=DESENVOLVIMENTO&amp;color=red&amp;style=for-the-badge)
+
+PAGINA INICIAL
+
+<a href="VC">Visualizar Codigo</a> / <a href="V">visualizar site</a>
+
+SSH -----------
 # relogiodigital
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAACFwAAAAdzc2gtcn
 NhAAAAAwEAAQAAAgEAw1BGOW5lflWSMeqKlloteZzVYpNw2+YQ6fUfhg3N8OEQZSgC1fEz
