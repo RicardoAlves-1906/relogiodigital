@@ -3,7 +3,7 @@
 
 PAGINA INICIAL
 
-<a href="VC">Visualizar Codigo</a> / <a href="V">visualizar site</a>
+<a href="https://github.com/RicardoAlves-1906/relogiodigital/blob/main/index.html">Visualizar Codigo</a> / <a href="V">visualizar site</a>
 
 SSH -----------
 # relogiodigital
